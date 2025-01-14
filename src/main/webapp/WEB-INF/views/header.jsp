@@ -8,7 +8,7 @@
 <style type="text/css">
 /* 헤더 스타일 */
 header {
-    background-color: #4CAF50;
+    background-color: #2b572d;
     color: white;
     display: flex;
     justify-content: space-between;

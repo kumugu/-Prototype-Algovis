@@ -17,7 +17,7 @@
 </head>
 <body>
 <%@ include file="/WEB-INF/views/header.jsp" %>
-<div>
+<div align="center">
 <h1>Fractal Viewer</h1>
 <div id="visualization" style="text-align: center;">
     <c:if test="${not empty fractalBase64}">
