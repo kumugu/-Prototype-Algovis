@@ -65,7 +65,7 @@
 				<a href="fractal.do">
 				<h2 class="feature-title">Fractal Explorer</h2>
 				</a>
-				<p>수학적 아름다움을 담은 프랙탈의 세계를 실시간으로 탐험하세요!</p>
+				<p>수학적 아름다움을 담은 프랙탈의 세계를 실시간으로 탐험하세요</p>
 			</div>
 				
 			<!-- Sorting Visualizer -->
@@ -73,7 +73,7 @@
 				<a href="sorting.do">
 				<h2 class="feature-title">Sorting Visualizer</h2>
 				</a>
-				<p>다양한 정렬 알고리즘의 작동 원리를 시각적으로 비교 분석해보세요!</p>
+				<p>다양한 정렬 알고리즘의 작동 원리를 시각적으로 비교 분석해보세요</p>
 			</div>
 			
 			<!-- Maze Pathfinder -->
@@ -81,7 +81,7 @@
 				<a href="maze.do">
 				<h2 class="feature-title">Maze Pathfinder</h2>
 				</a>
-				<p>경로 탐색 알고리즘의 핵심 개념을 게임처럼 쉽게 배워보세요!</p>
+				<p>경로 탐색 알고리즘의 핵심 개념을 게임처럼 쉽게 배워보세요</p>
 			</div>
 		</div>
 	</div>
