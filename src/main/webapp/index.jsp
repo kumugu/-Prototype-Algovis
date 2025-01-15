@@ -56,8 +56,8 @@
     <%@ include file="WEB-INF/views/header.jsp" %>
     
 	<div class="container" align="center">
-		<h1>Algorithm Playground</h1>
-			<p>알고리즘의 원리를 직관적으로 이해하는 인터랙티브 학습 플랫폼</p>
+		<h1>AlgoVis Studio</h1>
+		<p>알고리즘의 원리를 직관적으로 이해하는 인터랙티브 학습 플랫폼</p>
 			
 		<div class="feature-list">
 			<!-- Fractal Explorer -->
